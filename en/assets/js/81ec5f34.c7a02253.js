@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdaxx7_docs=self.webpackChunkdaxx7_docs||[]).push([["8087"],{6341(o){o.exports=JSON.parse('{"authors":[{"name":"Dax Robotics","title":"\u5927\u5496\u673A\u5668\u4EBA\u6587\u6863\u56E2\u961F","url":"https://www.daxrobotics.cn/","page":{"permalink":"/en/blog/authors/daxrobotics"},"imageURL":"/en/img/logo.svg","key":"daxrobotics","count":1}]}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdaxx7_docs=self.webpackChunkdaxx7_docs||[]).push([["1833"],{5513(e){e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"\u5927\u5496\u673A\u5668\u4EBA\u6587\u6863\u4E2D\u5FC3\u521D\u59CB\u5316","permalink":"/blog/docs-site-initialized","unlisted":false,"date":"2026-06-04T00:00:00.000Z"}]}')}}]);

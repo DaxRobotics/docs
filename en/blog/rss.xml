@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="rss.xsl"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>大咖机器人文档中心 Blog</title>
+        <link>https://daxrobotics.github.io/en/blog</link>
+        <description>大咖机器人文档中心 Blog</description>
+        <lastBuildDate>Thu, 04 Jun 2026 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>en</language>
+        <item>
+            <title><![CDATA[大咖机器人文档中心初始化]]></title>
+            <link>https://daxrobotics.github.io/en/blog/docs-site-initialized</link>
+            <guid>https://daxrobotics.github.io/en/blog/docs-site-initialized</guid>
+            <pubDate>Thu, 04 Jun 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[大咖机器人文档中心完成第一版信息架构初始化，覆盖 Dax x7 轮式人形双臂机器人和骐骥 T1000 机器马的产品设置、基础使用、开发教程、Demo 示例和 SDK API 参考。]]></description>
+            <content:encoded><![CDATA[<p>大咖机器人文档中心完成第一版信息架构初始化，覆盖 Dax x7 轮式人形双臂机器人和骐骥 T1000 机器马的产品设置、基础使用、开发教程、Demo 示例和 SDK API 参考。</p>
+<!-- -->
+<p>本次初始化包含：</p>
+<ul>
+<li class="">快速开始：开箱、安全检查、上电、网络连接和首次运行。</li>
+<li class="">产品文档：Dax x7 与骐骥 T1000 的设置、使用和开发入口。</li>
+<li class="">开发教程：SDK 环境准备、连接机器人、运动控制、传感器数据和产品专项开发。</li>
+<li class="">Demo 示例：遥控、导航、双臂操作和巡检示例。</li>
+<li class="">SDK API：客户端、运动控制、双臂、传感器和错误码参考结构。</li>
+</ul>
+<p>当前版本中的具体规格、SDK 包名、端口、错误码和接口字段使用 TODO 占位，后续将根据正式交付资料逐步补全。</p>]]></content:encoded>
+            <category>文档</category>
+            <category>更新日志</category>
+        </item>
+    </channel>
+</rss>
