@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="atom.xsl"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://daxrobotics.github.io/blog</id>
+    <id>https://daxrobotics.github.io/docs/blog</id>
     <title>大咖机器人文档中心 Blog</title>
     <updated>2026-06-04T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://daxrobotics.github.io/blog"/>
+    <link rel="alternate" href="https://daxrobotics.github.io/docs/blog"/>
     <subtitle>大咖机器人文档中心 Blog</subtitle>
-    <icon>https://daxrobotics.github.io/img/favicon.ico</icon>
+    <icon>https://daxrobotics.github.io/docs/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[大咖机器人文档中心初始化]]></title>
-        <id>https://daxrobotics.github.io/blog/docs-site-initialized</id>
-        <link href="https://daxrobotics.github.io/blog/docs-site-initialized"/>
+        <id>https://daxrobotics.github.io/docs/blog/docs-site-initialized</id>
+        <link href="https://daxrobotics.github.io/docs/blog/docs-site-initialized"/>
         <updated>2026-06-04T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[大咖机器人文档中心完成第一版信息架构初始化，覆盖 Dax x7 轮式人形双臂机器人和骐骥 T1000 机器马的产品设置、基础使用、开发教程、Demo 示例和 SDK API 参考。]]></summary>
         <content type="html"><![CDATA[<p>大咖机器人文档中心完成第一版信息架构初始化，覆盖 Dax x7 轮式人形双臂机器人和骐骥 T1000 机器马的产品设置、基础使用、开发教程、Demo 示例和 SDK API 参考。</p>
